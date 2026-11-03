@@ -32,13 +32,13 @@ A university project that monitors the driver's eyes and head movement and gives
 
 [View project](https://github.com/KlinchaDev/Driver-Attention-Monitoring-System)
 
-### 💻 Full-Stack Application
+### 💻 Employee Management App
 
-A project made with Node.js, Vue.js and SQL.
+A technical task I did as part of an interview process.
 
-**Node.js • Vue.js • SQL**
+**Vue.js • Node.js • Express • MySQL**
 
-*Coming soon*
+[View project](https://github.com/KlinchaDev/Employee-Management-App)
 
 ### 🍷 Klincharov Family Winery
 
